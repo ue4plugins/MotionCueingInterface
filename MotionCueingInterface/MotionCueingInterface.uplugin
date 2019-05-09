@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Motion Cueing Interface",
+	"Description": "Simple interface to connect and send data to Motion Platforms",
+	"Category": "Motion Cueing",
+	"CreatedBy": "Francis Maheux",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+  "Modules": [
+    {
+      "Name": "MotionCueingInterface",
+      "Type": "Runtime",
+      "LoadingPhase": "Default",
+      "WhitelistPlatforms": ["Win64"]
+    }
+  ]
+}
