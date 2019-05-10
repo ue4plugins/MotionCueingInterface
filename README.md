@@ -7,7 +7,7 @@ Developer and end user documentation resides in the Wiki.
 
 Developed by:
 
-    Sebastien Loze - Senior Manager - UE Simulation & Engineering
+    Sebastien Loze - Industry Manager, Simulations
     sebastien.loze@epicgames.com 
     
     Francis Maheux - Technical Artist
